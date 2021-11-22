@@ -1,0 +1,2 @@
+// Basics - Exercise 4
+console.log("Because the expression '5' + 10 first implicitly coerces 10 to a String and then concatenates (using '+' operator) '5' and '10' which results in the String '510'.");
